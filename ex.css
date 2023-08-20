@@ -1,0 +1,54 @@
+.ppp{
+    font-size: x-large;
+    font-weight: bold;
+}
+.navbar .navbar-nav .nav-link{
+    color: #d2d2d2;
+    font-stretch: expanded;
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: #ffc107;
+    
+}
+/* =.carousel-item{
+    background-color: rgba(0, 0, 0, 0);
+} */
+.carousel-caption{
+    font-size: x-large;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    
+}
+.carousel-caption h5{
+    font-size:xxx-large;
+    font-weight: bold;
+}
+body{
+    background-color: #f6fbfd;
+}
+.mmm{
+    margin-top: 20px;
+}
+.anawen{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+/* .hhh:hover{
+    transform: scale(1);
+} */
+.fifaa{
+    transition: 2ms;
+}
+.fifaa:hover{
+    transform: scale(1.2);
+    overflow: hidden;
+}
+.card{
+    margin-bottom: 22px;
+}

@@ -1,0 +1,36 @@
+.trustlogo {
+    width: 20%;
+   
+}
+.saudilogo {
+    width: 12%;
+}
+/* .my-nav{
+    box-shadow: rgb(50 50 93 / 25%) 0px 30px 60px -12px inset, rgb(0 0 0 / 30%) 0px 18px 36px -18px inset;
+    box-shadow: rgb(0 0 0 / 25%) 0px 54px 55px, rgb(0 0 0 / 12%) 0px -12px 30px, rgb(0 0 0 / 12%) 0px 4px 6px, rgb(0 0 0 / 17%) 0px 12px 13px, rgb(0 0 0 / 9%) 0px -3px 5px;
+<i class="bi bi-telephone"></i>
+} */
+.iconof{
+    color: blue;
+}
+button.navbar-toggler{
+    position: absolute;
+    display: flex;
+    top: 22%;
+    left: 90%;
+
+}
+.mt200{
+    margin-top: 100px;
+}
+.photo{
+    height: 100%;
+    width: 100%;
+}
+.a2rb{
+    width: 50%;
+    height: 75%
+}
+.enddd{
+    font-size: x-large;
+}
